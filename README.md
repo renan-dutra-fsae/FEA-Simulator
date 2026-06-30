@@ -43,6 +43,8 @@ Na visualização: `escala` exagera a deformada, `modo` pode ser `'tensao'` (axi
 `'vonmises'` ou `'simples'`. Cinza translúcido = forma original; cor = tensão;
 cubos vermelhos = apoios.
 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/16df91f2-9e54-47df-9aea-adf3624afd94" />
+
 ## Como funciona
 
 Método da rigidez direta: monta a matriz local 12×12 de cada tubo (axial, torção,
